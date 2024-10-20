@@ -1,1 +1,13 @@
 https://docs.google.com/document/d/1_nQWElLpGLXDuXSWoxSwuWphUgeylrh3NfUyNxWNJrE/edit?tab=t.0
+
+Simulation>new>celluar networks>GSM.
+1.MSC(3rd column,black cylinder) place in middle.
+2.From 5th column, take tower and place in left of MSC.
+3.From 1st column take 6 mobile and place connected to tower.
+4.Take Link from 4th column and connect MSC to tower.
+5.Take Application from 10th column.
+6.Go to MSC properties>interface>datalink layer>2nd uplink>change to 890.2
+7.Go to Application properties>source_ID>3dest_ID>4
+Call>inter_arrival_time>10
+Service type>CBR
+8.Add another application where source_ID>5dest_ID>6 and so on, and then run simulation
