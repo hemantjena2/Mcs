@@ -11,3 +11,5 @@ Simulation>new>celluar networks>GSM.
 Call>inter_arrival_time>10
 Service type>CBR
 8.Add another application where source_ID>5dest_ID>6 and so on, and then run simulation
+
+https://docs.google.com/document/d/1cbK2sJtGTfKRlMhnV7A31gNFvHNhbbRjbElxVNcVckA/edit?tab=t.0
